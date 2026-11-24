@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="LightweightTrackingPlatform" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Rute Uji Purwokerto - UNSOED Loop</name>
+    <desc>Rute melingkar Start Pabuwaran - UNSOED Karangwangkal - UNSOED Grendeng - GOR Satria - Arcawinangun</desc>
+  </metadata>
+
+  <wpt lat="-7.406203" lon="109.260774">
+    <ele>112.0</ele>
+    <name>START / FINISH</name>
+  </wpt>
+  <wpt lat="-7.412150" lon="109.256800">
+    <ele>102.0</ele>
+    <name>Kampus UNSOED Grendeng</name>
+  </wpt>
+  <wpt lat="-7.416500" lon="109.247800">
+    <ele>92.0</ele>
+    <name>GOR Satria Purwokerto</name>
+  </wpt>
+
+  <trk>
+    <name>Loop Purwokerto Utara - UNSOED</name>
+    <trkseg>
+      <!-- Start -->
+      <trkpt lat="-7.406203" lon="109.260774"><ele>112.0</ele></trkpt>
+      <trkpt lat="-7.407250" lon="109.260610"><ele>110.5</ele></trkpt>
+      <trkpt lat="-7.408350" lon="109.260420"><ele>109.0</ele></trkpt>
+      <!-- Area UNSOED Karangwangkal -->
+      <trkpt lat="-7.409600" lon="109.259850"><ele>107.0</ele></trkpt>
+      <trkpt lat="-7.410850" lon="109.258950"><ele>105.0</ele></trkpt>
+      <!-- Jl. Kampus - UNSOED Grendeng -->
+      <trkpt lat="-7.411650" lon="109.257850"><ele>103.5</ele></trkpt>
+      <trkpt lat="-7.412150" lon="109.256800"><ele>102.0</ele></trkpt>
+      <trkpt lat="-7.412750" lon="109.255450"><ele>100.0</ele></trkpt>
+      <trkpt lat="-7.413250" lon="109.254150"><ele>98.5</ele></trkpt>
+      <!-- Jl. Prof. Dr. HR Bunyamin -->
+      <trkpt lat="-7.414650" lon="109.253450"><ele>96.0</ele></trkpt>
+      <trkpt lat="-7.416100" lon="109.252650"><ele>94.0</ele></trkpt>
+      <trkpt lat="-7.417650" lon="109.251200"><ele>92.5</ele></trkpt>
+      <!-- Kawasan GOR Satria -->
+      <trkpt lat="-7.416500" lon="109.247800"><ele>92.0</ele></trkpt>
+      <trkpt lat="-7.418200" lon="109.248100"><ele>90.5</ele></trkpt>
+      <trkpt lat="-7.419850" lon="109.249650"><ele>89.0</ele></trkpt>
+      <!-- Jl. Martadireja - Arcawinangun -->
+      <trkpt lat="-7.420450" lon="109.252300"><ele>88.5</ele></trkpt>
+      <trkpt lat="-7.420100" lon="109.255800"><ele>89.0</ele></trkpt>
+      <trkpt lat="-7.418950" lon="109.258950"><ele>91.0</ele></trkpt>
+      <!-- Naik kembali via Jl. Dr. Soeparno -->
+      <trkpt lat="-7.416800" lon="109.259650"><ele>94.5</ele></trkpt>
+      <trkpt lat="-7.414300" lon="109.260050"><ele>99.0</ele></trkpt>
+      <trkpt lat="-7.411500" lon="109.260300"><ele>104.0</ele></trkpt>
+      <trkpt lat="-7.408350" lon="109.260420"><ele>109.0</ele></trkpt>
+      <!-- Finish (kembali ke titik awal) -->
+      <trkpt lat="-7.406203" lon="109.260774"><ele>112.0</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
